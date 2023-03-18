@@ -1,5 +1,12 @@
 <?php
-// EKH 
+
+/*
+┌───────────┬─┐
+│ ELSHNKHLL │ │ 
+├───────────┼─┤ 
+└───────────┴─┘ 
+*/
+
 // https://en.wikipedia.org/wiki/Discrete_cosine_transform
 // show all errors ini_set('display_errors', 1); ini_set('display_startup_errors', 1); error_reporting(E_ALL);
 
